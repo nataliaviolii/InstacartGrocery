@@ -4,7 +4,7 @@
 ![sites-rent-movies-online-fandangonow-featured](https://user-images.githubusercontent.com/130076002/231504282-92f6b383-84ba-40b4-8c25-7e291f3e5e71.jpg)
 
 ### **Company:**<br>
-Instacart is an American delivery company that operates a grocery delivery and pick-up service in the United States and Canada. The company offers its services via a website and mobile app. The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper. [Wikipedia]https://en.wikipedia.org/wiki/Instacart
+Instacart is an American delivery company that operates a grocery delivery and pick-up service in the United States and Canada. The company offers its services via a website and mobile app. The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper. [Wikipedia] https://en.wikipedia.org/wiki/Instacart
 
 ### **Current Situation:**<br>
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. 
