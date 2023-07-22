@@ -1,7 +1,7 @@
 # Instacart Grocery Basket Analysis - Python Project
 ## **Project Overview**
 
-![sites-rent-movies-online-fandangonow-featured]([https://user-images.githubusercontent.com/130076002/231504282-92f6b383-84ba-40b4-8c25-7e291f3e5e71.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fintroduction-to-simple-association-rules-mining-for-market-basket-analysis-ef8f2d613d87&psig=AOvVaw3NaagfQhgtZw-bQdZvsW8z&ust=1690072893006000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiVptCMoYADFQAAAAAdAAAAABAE))
+![sites-rent-movies-online-fandangonow-featured](https://miro.medium.com/v2/resize:fit:1400/0*61CHD4DVs44iL9TE)
 
 ### **Company:**<br>
 Instacart is an American delivery company that operates a grocery delivery and pick-up service in the United States and Canada. The company offers its services via a website and mobile app. The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper. [Wikipedia](https://en.wikipedia.org/wiki/Instacart)
