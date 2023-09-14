@@ -10,10 +10,15 @@ Instacart is an American delivery company that operates a grocery delivery and p
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. 
 
 ### **Project Brieft:**<br>
-DThe detailed of the project can be found [here](https://drive.google.com/file/d/1TfmLX7bXt0N15lU57NtwaBwZdp8ZJXOG/view?usp=sharing).
+Details of this project can be found [here](https://drive.google.com/file/d/1TfmLX7bXt0N15lU57NtwaBwZdp8ZJXOG/view?usp=sharing).
 
 ### **Objective:**<br>
 The objective of this project is to analyze customer behavior and uncover patterns for growth.
+
+### **Tools:**<br>
+For this project, the following Python libraries were used:
+- Pandas - For data analysis
+- Seaborn - For visualization
 
 ### **Final Report:**<br>
 [Final Report](https://drive.google.com/file/d/1G3B9sfZjDeyQVxhJbSqI3ZpqTXQDN1N7/view?usp=sharing).
