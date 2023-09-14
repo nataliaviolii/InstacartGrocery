@@ -21,5 +21,5 @@ For this project, the following Python libraries were used:
 - Seaborn & Matplotlib - For visualization
 
 ### **Final Report:**<br>
-- [Final Report](https://drive.google.com/file/d/1G3B9sfZjDeyQVxhJbSqI3ZpqTXQDN1N7/view?usp=sharing)
+- [Final Report](https://docs.google.com/spreadsheets/d/13W1Wvlh3XW3bLqiyPO9NzUhEY6cHNuid/edit?usp=sharing&ouid=116112889895261538034&rtpof=true&sd=true)
 - [Instacart Portfolio](https://nataliaviolii.github.io/DataAnalyticsPortfolio/portfolio.python.html)
