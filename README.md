@@ -22,3 +22,4 @@ For this project, the following Python libraries were used:
 
 ### **Final Report:**<br>
 [Final Report](https://drive.google.com/file/d/1G3B9sfZjDeyQVxhJbSqI3ZpqTXQDN1N7/view?usp=sharing).
+[Instacart Portfolio](https://nataliaviolii.github.io/DataAnalyticsPortfolio/portfolio.python.html).
