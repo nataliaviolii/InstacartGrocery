@@ -9,7 +9,7 @@ Instacart is an American delivery company that operates a grocery delivery and p
 ### **Current Situation:**<br>
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. 
 
-### **Project Brieft:**<br>
+### **Project Brief:**<br>
 Details of this project can be found [here](https://drive.google.com/file/d/1TfmLX7bXt0N15lU57NtwaBwZdp8ZJXOG/view?usp=sharing).
 
 ### **Objective:**<br>
